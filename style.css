@@ -1,0 +1,17 @@
+body {
+        background-color: aqua;
+}
+
+footer {
+    background-color: rgb(5, 62, 111);
+    color: rgb(152, 87, 6);
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+footer p{
+    text-align: center;
+    font-size: medium;
+    margin-top: 0,5rem;
+}
